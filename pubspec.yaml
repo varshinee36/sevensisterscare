@@ -21,6 +21,7 @@ dependencies:
   provider: ^6.1.2
   shared_preferences: ^2.5.3
   image_picker: ^1.1.2
+  audioplayers: ^6.8.1
 
 dev_dependencies:
   flutter_test:
@@ -38,3 +39,4 @@ flutter:
     - assets/images/pair_finder/
     - assets/images2/
     - assets/images/memory/
+    - assets/audio/
